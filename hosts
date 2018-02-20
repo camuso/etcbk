@@ -1,0 +1,37 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4 laptop
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6 laptop
+10.16.186.241   dhcp-186-241.bos.redhat.com tcamuso
+10.16.42.170	bl460cg7 hp-bl460cg7-02 hp-bl460cg7-02.lab.bos.redhat.com
+10.16.47.234	camuso-vm
+10.16.42.164	octane hp-octane-01 hp-octane-01.lab.bos.redhat.com
+10.16.44.11	hpcrashdummy hpcrashdummy.lab.bos.redhat.com
+# 10.19.40.113	desktop
+10.19.40.158	desktop
+10.16.42.181	camuso-vm.lab.bos.redhat.com
+10.16.42.182	burns-vm.lab.bos.redhat.com
+10.16.42.183	hpvm-rhel5-32.lab.bos.redhat.com hpvm-rhel5-32
+10.16.42.184	hpvm-rhel5-64.lab.bos.redhat.com hpvm-rhel5-64
+10.16.47.211	vm-rhel5-64	# currently resident on intel-canoepass-05
+10.16.42.185	hpvm-rhel6-32.lab.bos.redhat.com hpvm-rhel6-32
+10.16.42.186	hpvm-rhel6-64.lab.bos.redhat.com hpvm-rhel6-64
+10.16.42.187	hpvm-fedora-32.lab.bos.redhat.com hpvm-fedora-32
+# 10.16.46.186	dl380g8
+10.16.43.27     dl380g8 crimson380-2 crimson380-2.lab.bos.redhat.com
+10.16.43.28     dl380g8-ilo crimson380-2-ilo crimson380-2-ilo.lab.bos.redhat.com
+10.16.46.221	rh6-64.dl380g8
+10.16.47.113	rh5-64.dl380g8
+10.16.186.156   t1700
+10.16.40.156 	z620 hp-z620-01.lab.bos.redhat.com
+10.16.40.138	canoepass intel-canoepass-05.lab.bos.redhat.com
+10.16.40.133	c6100 dell-pec6100-01.lab.bos.redhat.com
+10.18.17.116	laptop
+10.18.17.26	vmf20
+192.68.1.18	vmf20-home
+10.18.17.209	vmu13-32
+10.18.17.77	vmu13
+10.19.40.185	dinar
+10.19.40.187	dinar-ipmi
+10.19.40.107	rhel6vm
+192.168.1.78	jonah
+192.168.1.77	elijah
+10.10.161.35	git.engineering.redhat.com

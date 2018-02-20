@@ -1,0 +1,5 @@
+[rhel6-csb]
+name=RHEL6 CSB packages
+baseurl=http://hdn.corp.redhat.com/rhel6-csb
+enabled=1
+gpgcheck=0

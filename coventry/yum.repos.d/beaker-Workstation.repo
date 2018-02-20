@@ -1,0 +1,7 @@
+[beaker-Workstation]
+name=beaker-Workstation
+# baseurl=http://lab-02.rhts.eng.bos.redhat.com/net/bigpapi.bos.redhat.com/vol/engarchive2/redhat/released/RHEL-6/6.3/Workstation/x86_64/os/Workstation
+baseurl=http://download.lab.bos.redhat.com/released/RHEL-6/6.3/Workstation/x86_64/os/Workstation/
+enabled=1
+gpgcheck=0
+skip_if_unavailable=1
