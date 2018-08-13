@@ -6,3 +6,4 @@
 192.168.1.78	jonah		# home windows workstation
 192.168.1.77	elijah		# fedora guest on jonah
 192.168.1.79	esther		# home linux workstation
+10.16.160.107   dl380 		# hp-dl380pgen9-07.klab.eng.bos.redhat.com
