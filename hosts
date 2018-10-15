@@ -1,6 +1,6 @@
 127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
-10.19.40.158	desktop		# office intel workstation
+10.19.40.160	desktop		# office intel workstation
 10.19.40.143	dinar		# office amd box
 10.19.40.187	dinar-ipmi	# ipmi port for office amd box
 192.168.1.78	jonah		# home windows workstation
