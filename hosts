@@ -7,3 +7,6 @@
 192.168.1.77	elijah		# fedora guest on jonah
 192.168.1.79	esther		# home linux workstation
 10.16.160.107   dl380 		# hp-dl380pgen9-07.klab.eng.bos.redhat.com
+10.16.160.13	per430		# dell-per430-02.klab.eng.bos.redhat.com
+10.16.210.172	sr650		# lenovo-sr650-01.khw2.lab.eng.bos.redhat.com
+172.65.251.78 	gitlab.com
