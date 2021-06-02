@@ -1,6 +1,0 @@
-[beaker-debug]
-name=beaker-debug
-baseurl=http://lab-02.rhts.eng.bos.redhat.com/net/bigpapi.bos.redhat.com/vol/engarchive2/redhat/released/RHEL-6/6.3/Workstation/x86_64/os/../debug
-enabled=1
-gpgcheck=0
-skip_if_unavailable=1

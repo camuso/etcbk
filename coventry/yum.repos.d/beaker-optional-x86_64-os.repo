@@ -1,6 +1,0 @@
-[beaker-optional-x86_64-os]
-name=beaker-optional-x86_64-os
-baseurl=http://lab-02.rhts.eng.bos.redhat.com/net/bigpapi.bos.redhat.com/vol/engarchive2/redhat/released/RHEL-6/6.2/Workstation/x86_64/os/../../optional/x86_64/os
-enabled=1
-gpgcheck=0
-skip_if_unavailable=1
