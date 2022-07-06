@@ -9,4 +9,8 @@
 10.16.160.107   dl380 		# hp-dl380pgen9-07.klab.eng.bos.redhat.com
 10.16.160.13	per430		# dell-per430-02.klab.eng.bos.redhat.com
 10.16.210.172	sr650		# lenovo-sr650-01.khw2.lab.eng.bos.redhat.com
+10.19.176.247   st250		# lenovo-st250v2-02.ml3.eng.bos.redhat.com
 172.65.251.78 	gitlab.com
+10.0.128.118    gitlab.cee.redhat.com
+10.16.218.109   per433          # dell-per430-03.dell2.lab.eng.bos.redhat.com
+10.19.43.53     console.lab.bos.redhat.com # conserver
