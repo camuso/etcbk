@@ -6,12 +6,13 @@
 192.168.1.78	jonah		# home windows workstation
 192.168.1.77	elijah		# fedora guest on jonah
 192.168.1.79	esther		# home linux workstation
-10.16.160.107   dl380 		# hp-dl380pgen9-07.klab.eng.bos.redhat.com
+10.6.10.143	dl380		# hp-dl380pgen9-07.khw.eng.rdu2.dc.redhat.com
 10.16.160.13	per430		# dell-per430-02.klab.eng.bos.redhat.com
 10.16.210.172	sr650		# lenovo-sr650-01.khw2.lab.eng.bos.redhat.com
 172.65.251.78 	gitlab.com
-10.0.128.118    gitlab.cee.redhat.com
+10.30.15.166    gitlab.cee.redhat.com
 10.16.218.109   per433          # dell-per430-03.dell2.lab.eng.bos.redhat.com
 10.19.43.53     console.lab.bos.redhat.com # conserver
 10.16.203.46	rl300
 10.26.2.63	st250		# lenovo-st250v2-02.khw.eng.bos2.dc.redhat.com
+10.26.0.47	sr250		# lenovo-sr250-01.khw.eng.bos2.dc.redhat.com
